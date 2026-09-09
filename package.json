@@ -1,0 +1,24 @@
+{
+  "name": "recuperacaorenan",
+  "version": "1.0.0",
+  "description": "recuperacao avaliativa do renan",
+  "homepage": "https://github.com/louisemorais/recuperacaoApiNode#readme",
+  "bugs": {
+    "url": "https://github.com/louisemorais/recuperacaoApiNode/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/louisemorais/recuperacaoApiNode.git"
+  },
+  "license": "ISC",
+  "author": "louise morais",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node --watch index.js",
+    "test": "jest"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
